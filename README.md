@@ -1,2 +1,2 @@
 # INP-proj1
-FIT-VUTBR, project 1
+FIT-VUTBR, INP project
